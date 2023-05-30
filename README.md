@@ -18,6 +18,109 @@ This is meant to create json files for https://github.com/pkuliyi2015/multidiffu
 
 ![tmpsbpy5ltv](https://github.com/GeekyGhost/multidiffusionLazyRiffusionRegeionPrompting/assets/111990299/d5137ecc-f778-4745-8dad-22c8292f722c)
 
+Example json file output
+
+{
+    "bbox_controls": [
+        {
+            "enable": true,
+            "x": 0,
+            "y": 0,
+            "w": 0.15,
+            "h": 1,
+            "prompt": "Metal Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369420711
+        },
+        {
+            "enable": true,
+            "x": 0.15,
+            "y": 0,
+            "w": 0.1,
+            "h": 1,
+            "prompt": "Rock Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369420839
+        },
+        {
+            "enable": true,
+            "x": 0.25,
+            "y": 0,
+            "w": 0.15,
+            "h": 1,
+            "prompt": "Metal Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369420967
+        },
+        {
+            "enable": true,
+            "x": 0.4,
+            "y": 0,
+            "w": 0.1,
+            "h": 1,
+            "prompt": "Rock Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369421095
+        },
+        {
+            "enable": true,
+            "x": 0.5,
+            "y": 0,
+            "w": 0.15,
+            "h": 1,
+            "prompt": "Metal Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369421223
+        },
+        {
+            "enable": true,
+            "x": 0.65,
+            "y": 0,
+            "w": 0.1,
+            "h": 1,
+            "prompt": "Rock Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369421351
+        },
+        {
+            "enable": true,
+            "x": 0.75,
+            "y": 0,
+            "w": 0.15,
+            "h": 1,
+            "prompt": "Metal Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369421479
+        },
+        {
+            "enable": true,
+            "x": 0.9,
+            "y": 0,
+            "w": 0.1,
+            "h": 1,
+            "prompt": "Rock Ballad",
+            "neg_prompt": "",
+            "blend_mode": "Foreground",
+            "feather_ratio": 0.05,
+            "seed": 421369421607
+        }
+    ]
+}
+
 
 
 Code created with the assistance of chatGPT4

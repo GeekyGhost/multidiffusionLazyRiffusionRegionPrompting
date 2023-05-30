@@ -14,4 +14,10 @@ This is meant to create json files for https://github.com/pkuliyi2015/multidiffu
 
 ![Screenshot 2023-05-30 123232](https://github.com/GeekyGhost/multidiffusionLazyRiffusionRegeionPrompting/assets/111990299/b4417720-3b0b-4011-860d-67ff93eeab91)
 
+![Screenshot 2023-05-30 114832](https://github.com/GeekyGhost/multidiffusionLazyRiffusionRegeionPrompting/assets/111990299/0691f71c-903f-40ff-9769-575f8ad814ee)
+
+![tmpsbpy5ltv](https://github.com/GeekyGhost/multidiffusionLazyRiffusionRegeionPrompting/assets/111990299/d5137ecc-f778-4745-8dad-22c8292f722c)
+
+
+
 Code created with the assistance of chatGPT4

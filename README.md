@@ -8,7 +8,7 @@ Mainly using it for testing but obviously if testing works out I can kind of add
 
 Enter one or two prompts, choose the feathering amount. Enter the seed. Then enter the variation amount for the seed, basic intervals for now. Previous seed + a set number = new seed. Hit the Variationator button and name and save your json file. Then Viola! you have a template for Multidiffusion for your Riffusion testing of regional prompting. 
 
-I usually use a .bat fule to create the venv and activate it then install requirements and then launch the main.py file but there's really no dependencies here. Pretty basic. Create the venv, activate it, run the script. No requirements lol. 
+I usually use a .bat file to create the venv and activate it then install requirements and then launch the main.py file but there's really no dependencies here. Pretty basic. Create the venv, activate it, run the script. No requirements lol. 
 
 This is meant to create json files for https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
 
